@@ -50,8 +50,8 @@ organization = "Hugo"
 link = "https://zzossig.io/ko"
 
 # sidebar
-enableBio = true
-enableBioImage = true
+enableBio = false
+enableBioImage = false
 enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
