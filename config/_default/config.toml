@@ -2,7 +2,7 @@ baseURL = "https://zzo-starter.netlify.app/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 

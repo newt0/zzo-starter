@@ -1,5 +1,5 @@
 baseURL = "https://zzo-starter.netlify.app/"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "My New Hugo Site"
 theme = "zzo"
 enableRobotsTXT = true
