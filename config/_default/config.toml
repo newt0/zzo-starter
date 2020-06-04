@@ -6,6 +6,8 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
+enableRobotsTXT = true
+
 summaryLength = 70
 buildFuture = true
 
