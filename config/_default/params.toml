@@ -40,14 +40,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
+myname = "Newt0"
+email = "kyohei.ito@kernel-dc.jo"
 whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Tokyo, Japan"
+organization = "早稲田大学"
+link = "https://qiita.com/kyohei_ai"
 
 # sidebar
 enableBio = false
