@@ -1,6 +1,6 @@
 {{ $params := .Params }}
 <div class="single__infos">
-  <time class="single__info" title="{{ i18n "tooltip-written" }}">📅&nbsp;{{ .Date.Format (i18n "single-dateformat") }} </time>
+  <time class="single__info" title="{{ i18n "tooltip-written" }}">&nbsp;{{ .Date.Format (i18n "single-dateformat") }} </time>
   {{ if ne (.Date.Format (i18n "summary-dateformat")) (.Lastmod.Format (i18n "summary-dateformat")) }}
   &nbsp;&middot;&nbsp; <time class="single__info" title="{{ i18n "tooltip-modified" }}"> 📝&nbsp;{{ .Lastmod.Format (i18n "single-dateformat") }} </time>
   {{ end }}

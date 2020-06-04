@@ -47,7 +47,7 @@
       if (obj.publishDate) {
         var dateSpan = document.createElement('span');
         dateSpan.className = 'caption pub__meta';
-        dateSpan.innerText = '📅 ' + obj.publishDate.slice(0, 10);
+        dateSpan.innerText = obj.publishDate.slice(0, 10);
         metaDiv.appendChild(dateSpan);
       }
 
@@ -147,7 +147,7 @@
           if (obj.item.publishDate) {
             var dateSpan = document.createElement('span');
             dateSpan.className = 'caption pub__meta';
-            dateSpan.innerText = '📅 ' + obj.item.publishDate.slice(0, 10);
+            dateSpan.innerText = obj.item.publishDate.slice(0, 10);
             metaDiv.appendChild(dateSpan);
           }
 
