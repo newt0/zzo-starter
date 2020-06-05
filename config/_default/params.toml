@@ -8,10 +8,10 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "solarized"] #  ,"hacker", "kimbie"
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "presentation", "resume"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "presentation", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = false
