@@ -1,14 +1,30 @@
 ---
-authors: ['zzossig']
-publisher: "Self-Published"
-abstract: "Donec vel ipsum vulputate, dapibus magna quis, auctor mauris. Aliquam ut dapibus risus. Duis sit amet magna posuere, interdum metus sed, maximus tortor. Maecenas tempus ut magna nec facilisis. Pellentesque vel ultrices nunc, eget ultrices mauris. Ut eget ligula quis purus porta rhoncus eget at eros. In id felis ullamcorper, vehicula ante sed, cursus magna. Curabitur libero nibh, posuere in urna in, viverra pulvinar lectus. Pellentesque rutrum tempus elit at hendrerit. Sed enim est, bibendum in augue iaculis, viverra venenatis sapien. Nullam sagittis augue maximus mi interdum maximus. Praesent a cursus massa."
-shorttitle: "Donec vel ipsum vulputate"
+authors: ['author']
+publisher: "Publisher"
+abstract: "abstractabstractabstractabstract"
+shorttitle: "shorttitle"
 isbn: "978-1-311-04245-3"
-copyright: "All rights reserved"
+copyright: "copyrights"
 title: "book-copy2"
 ENTRYTYPE: "book-copy"
-enableToc: False
-enableWhoami: True
+enableToc: false
+enableWhoami: false
 pinned: true
 publishDate: "2017-06-01"
 ---
+
+著者: 太宰治
+
+publisher, isbn, copyrightはどこに表示されている？
+
+title: 本のタイトル
+shorttitle: キャッチコピー
+abstract: 本の要約
+ENTRYTYPE: カテゴリー的な種類（基礎演習テキスト100等
+pinned: true
+enableWhoami: false
+publishDate: "2017-06-01"
+
+のような運用が良いだろう。
+
+Postにブログ記事（「新入生必読書10選~」等), Pubに書評と掲示板ページ, Presentationに広告, Galleryにインスタライクな写真を本棚のように、のような構成が良いだろう。
